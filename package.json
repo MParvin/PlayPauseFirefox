@@ -10,7 +10,8 @@
     "private-browsing": true,
     "cross-domain-content": [
       "https://www.youtube.com",
-      "https://w.soundcloud.com/"
+      "https://w.soundcloud.com/",
+      "https://podcasts.google.com/"
     ]
   },
   "locales": {
